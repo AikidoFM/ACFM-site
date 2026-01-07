@@ -1,0 +1,12 @@
+sitemap.xml
+
+Remplace https://acfm.pages.dev par ton URL finale quand Cloudflare te la donnera.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://acfm.pages.dev/</loc></url>
+  <url><loc>https://acfm.pages.dev/club.html</loc></url>
+  <url><loc>https://acfm.pages.dev/horaires.html</loc></url>
+  <url><loc>https://acfm.pages.dev/galerie.html</loc></url>
+  <url><loc>https://acfm.pages.dev/contact.html</loc></url>
+</urlset>
